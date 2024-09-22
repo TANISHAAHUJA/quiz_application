@@ -4,11 +4,11 @@ This is a simple Java-based quiz application designed to help users identify the
 
 *Features*
 
-5 Multiple-Choice Questions: Users answer questions about their skincare routine, and based on the responses, their skin type is determined.
-Pink-Themed UI: The user interface is designed with pink tones to give it a girly, skincare-oriented look.
-Responsive Dialogs: Each question must be answered before the user can proceed to the next, and the final result is presented in a themed dialog box.
-Result Calculation: The application calculates the most likely skin type based on the user's answers.
-Custom Background and Image: A skincare-related image is displayed, along with the quiz questions to create an engaging environment.
+1) 5 Multiple-Choice Questions: Users answer questions about their skincare routine, and based on the responses, their skin type is determined.
+2) Pink-Themed UI: The user interface is designed with pink tones to give it a girly, skincare-oriented look.
+3) Responsive Dialogs: Each question must be answered before the user can proceed to the next, and the final result is presented in a themed dialog box.
+4) Result Calculation: The application calculates the most likely skin type based on the user's answers.
+5) Custom Background and Image: A skincare-related image is displayed, along with the quiz questions to create an engaging environment.
 
 *Screenshots*
 ![Main Quiz Window](src/loginpage.png)
